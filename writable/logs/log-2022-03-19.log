@@ -1,0 +1,28 @@
+CRITICAL - 2022-03-19 17:26:31 --> Attempt to read property "password" on array
+#0 C:\xampp\htdocs\ci4\app\Controllers\User.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 77)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\User->process()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-19 17:27:44 --> Undefined property: CodeIgniter\HTTP\IncomingRequest::$getVar
+#0 C:\xampp\htdocs\ci4\app\Controllers\User.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 71)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\User->process()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-19 17:28:09 --> Attempt to read property "password" on array
+#0 C:\xampp\htdocs\ci4\app\Controllers\User.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 77)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\User->process()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-19 17:34:27 --> Attempt to read property "password" on array
+#0 C:\xampp\htdocs\ci4\app\Controllers\User.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 77)
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\User->process()
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
